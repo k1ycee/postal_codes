@@ -1,0 +1,162 @@
+{
+  "Abuja": [
+    {
+      "districtName": "Abaji",
+      "localGovernmentArea": "Abaji L.G.A",
+      "postalCode": "905101"
+    },
+    {
+      "districtName": "Yaba",
+      "localGovernmentArea": "Abaji L.G.A",
+      "postalCode": "905102"
+    },
+
+    {
+      "districtName": "Asokoro",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900231"
+    },
+    {
+      "districtName": "Central Business District",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900211"
+    },
+
+    {
+      "districtName": "Garki Area 10",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900246"
+    },
+
+    {
+      "districtName": "Garki Area 11",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900247"
+    },
+    {
+      "districtName": "Garki Area 2",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900242"
+    },
+    {
+      "districtName": "Garki Area 3",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900243"
+    },
+    {
+      "districtName": "Garki Area 7",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900244"
+    },
+    {
+      "districtName": "Garki Area 8",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900245"
+    },
+    {
+      "districtName": "Maitama",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900271"
+    },
+    {
+      "districtName": "Three Arms Zone",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900221"
+    },
+    {
+      "districtName": "Wuse II",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900288"
+    },
+    {
+      "districtName": "Wuse Zone 1",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900281"
+    },
+    {
+      "districtName": "Wuse Zone 2",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900281"
+    },
+    {
+      "districtName": "Wuse Zone 3",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900281"
+    },
+    {
+      "districtName": "Wuse Zone 5",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900285"
+    },
+    {
+      "districtName": "Wuse Zone 6",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900286"
+    },
+    {
+      "districtName": "Wuse Zone 7",
+      "localGovernmentArea": "Abuja L.G.A",
+      "postalCode": "900287"
+    },
+    {
+      "districtName": "Bwari",
+      "localGovernmentArea": "Bwari L.G.A",
+      "postalCode": "901101"
+    },
+    {
+      "districtName": "Gwaywalada",
+      "localGovernmentArea": "Gwaywalada L.G.A",
+      "postalCode": "902101"
+    },
+    {
+      "districtName": "Kuje",
+      "localGovernmentArea": "Kuje L.G.A",
+      "postalCode": "903101"
+    },
+    {
+      "districtName": "Rubbochi",
+      "localGovernmentArea": "Kuje L.G.A",
+      "postalCode": "903102"
+    },
+    {
+      "districtName": "Ashara",
+      "localGovernmentArea": "Kwali L.G.A",
+      "postalCode": "904108"
+    },
+    {
+      "districtName": "Gumbo",
+      "localGovernmentArea": "Kwali L.G.A",
+      "postalCode": "904107"
+    },
+    {
+      "districtName": "Kilankwa",
+      "localGovernmentArea": "Kwali L.G.A",
+      "postalCode": "904104"
+    },
+    {
+      "districtName": "Kwali",
+      "localGovernmentArea": "Kwali L.G.A",
+      "postalCode": "904105"
+    },
+    {
+      "districtName": "Pai",
+      "localGovernmentArea": "Kwali L.G.A",
+      "postalCode": "904101"
+    },
+    {
+      "districtName": "Wako",
+      "localGovernmentArea": "Kwali L.G.A",
+      "postalCode": "904109"
+    },
+    {
+      "districtName": "Yangoji",
+      "localGovernmentArea": "Kwali L.G.A",
+      "postalCode": "904103"
+    },
+    {
+      "districtName": "Yebu",
+      "localGovernmentArea": "Kwali L.G.A",
+      "postalCode": "904106"
+    }
+  ]
+}
