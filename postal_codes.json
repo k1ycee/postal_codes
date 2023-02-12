@@ -1,162 +1,1222 @@
-{
-  "Abuja": [
-    {
-      "districtName": "Abaji",
-      "localGovernmentArea": "Abaji L.G.A",
-      "postalCode": "905101"
-    },
-    {
-      "districtName": "Yaba",
-      "localGovernmentArea": "Abaji L.G.A",
-      "postalCode": "905102"
-    },
+[
+  {
+    "stateName": "Abuja",
+    "districtName": "Abaji",
+    "localGovernmentArea": "Abaji L.G.A",
+    "postalCode": "905101"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Yaba",
+    "localGovernmentArea": "Abaji L.G.A",
+    "postalCode": "905102"
+  },
 
-    {
-      "districtName": "Asokoro",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900231"
-    },
-    {
-      "districtName": "Central Business District",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900211"
-    },
+  {
+    "stateName": "Abuja",
+    "districtName": "Asokoro",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900231"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Central Business District",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900211"
+  },
 
-    {
-      "districtName": "Garki Area 10",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900246"
-    },
+  {
+    "stateName": "Abuja",
+    "districtName": "Garki Area 10",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900246"
+  },
 
-    {
-      "districtName": "Garki Area 11",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900247"
-    },
-    {
-      "districtName": "Garki Area 2",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900242"
-    },
-    {
-      "districtName": "Garki Area 3",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900243"
-    },
-    {
-      "districtName": "Garki Area 7",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900244"
-    },
-    {
-      "districtName": "Garki Area 8",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900245"
-    },
-    {
-      "districtName": "Maitama",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900271"
-    },
-    {
-      "districtName": "Three Arms Zone",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900221"
-    },
-    {
-      "districtName": "Wuse II",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900288"
-    },
-    {
-      "districtName": "Wuse Zone 1",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900281"
-    },
-    {
-      "districtName": "Wuse Zone 2",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900281"
-    },
-    {
-      "districtName": "Wuse Zone 3",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900281"
-    },
-    {
-      "districtName": "Wuse Zone 5",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900285"
-    },
-    {
-      "districtName": "Wuse Zone 6",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900286"
-    },
-    {
-      "districtName": "Wuse Zone 7",
-      "localGovernmentArea": "Abuja L.G.A",
-      "postalCode": "900287"
-    },
-    {
-      "districtName": "Bwari",
-      "localGovernmentArea": "Bwari L.G.A",
-      "postalCode": "901101"
-    },
-    {
-      "districtName": "Gwaywalada",
-      "localGovernmentArea": "Gwaywalada L.G.A",
-      "postalCode": "902101"
-    },
-    {
-      "districtName": "Kuje",
-      "localGovernmentArea": "Kuje L.G.A",
-      "postalCode": "903101"
-    },
-    {
-      "districtName": "Rubbochi",
-      "localGovernmentArea": "Kuje L.G.A",
-      "postalCode": "903102"
-    },
-    {
-      "districtName": "Ashara",
-      "localGovernmentArea": "Kwali L.G.A",
-      "postalCode": "904108"
-    },
-    {
-      "districtName": "Gumbo",
-      "localGovernmentArea": "Kwali L.G.A",
-      "postalCode": "904107"
-    },
-    {
-      "districtName": "Kilankwa",
-      "localGovernmentArea": "Kwali L.G.A",
-      "postalCode": "904104"
-    },
-    {
-      "districtName": "Kwali",
-      "localGovernmentArea": "Kwali L.G.A",
-      "postalCode": "904105"
-    },
-    {
-      "districtName": "Pai",
-      "localGovernmentArea": "Kwali L.G.A",
-      "postalCode": "904101"
-    },
-    {
-      "districtName": "Wako",
-      "localGovernmentArea": "Kwali L.G.A",
-      "postalCode": "904109"
-    },
-    {
-      "districtName": "Yangoji",
-      "localGovernmentArea": "Kwali L.G.A",
-      "postalCode": "904103"
-    },
-    {
-      "districtName": "Yebu",
-      "localGovernmentArea": "Kwali L.G.A",
-      "postalCode": "904106"
-    }
-  ]
-}
+  {
+    "stateName": "Abuja",
+    "districtName": "Garki Area 11",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900247"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Garki Area 2",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900242"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Garki Area 3",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900243"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Garki Area 7",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900244"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Garki Area 8",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900245"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Maitama",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900271"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Three Arms Zone",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900221"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Wuse II",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900288"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Wuse Zone 1",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900281"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Wuse Zone 2",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900281"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Wuse Zone 3",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900281"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Wuse Zone 5",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900285"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Wuse Zone 6",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900286"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Wuse Zone 7",
+    "localGovernmentArea": "Abuja L.G.A",
+    "postalCode": "900287"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Bwari",
+    "localGovernmentArea": "Bwari L.G.A",
+    "postalCode": "901101"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Gwaywalada",
+    "localGovernmentArea": "Gwaywalada L.G.A",
+    "postalCode": "902101"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Kuje",
+    "localGovernmentArea": "Kuje L.G.A",
+    "postalCode": "903101"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Rubbochi",
+    "localGovernmentArea": "Kuje L.G.A",
+    "postalCode": "903102"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Ashara",
+    "localGovernmentArea": "Kwali L.G.A",
+    "postalCode": "904108"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Gumbo",
+    "localGovernmentArea": "Kwali L.G.A",
+    "postalCode": "904107"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Kilankwa",
+    "localGovernmentArea": "Kwali L.G.A",
+    "postalCode": "904104"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Kwali",
+    "localGovernmentArea": "Kwali L.G.A",
+    "postalCode": "904105"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Pai",
+    "localGovernmentArea": "Kwali L.G.A",
+    "postalCode": "904101"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Wako",
+    "localGovernmentArea": "Kwali L.G.A",
+    "postalCode": "904109"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Yangoji",
+    "localGovernmentArea": "Kwali L.G.A",
+    "postalCode": "904103"
+  },
+  {
+    "stateName": "Abuja",
+    "districtName": "Yebu",
+    "localGovernmentArea": "Kwali L.G.A",
+    "postalCode": "904106"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Agila",
+    "localGovernmentArea": "Ado L.G.A",
+    "postalCode": "973109"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Atonkon",
+    "localGovernmentArea": "Ado L.G.A",
+    "postalCode": "973110"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Igumale",
+    "localGovernmentArea": "Ado L.G.A",
+    "postalCode": "973107"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ulayi",
+    "localGovernmentArea": "Ado L.G.A",
+    "postalCode": "973108"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Agatu",
+    "localGovernmentArea": "Agatu L.G.A",
+    "postalCode": "972108"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Agatu",
+    "localGovernmentArea": "Agatu L.G.A",
+    "postalCode": "972108"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Apa",
+    "localGovernmentArea": "Apa L.G.A",
+    "postalCode": "972107"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Buruku town",
+    "localGovernmentArea": "Buruku L.G.A",
+    "postalCode": "981105"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Abwa/Agwabi/Abakwa",
+    "localGovernmentArea": "Buruku L.G.A",
+    "postalCode": "981108"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Adi Village",
+    "localGovernmentArea": "Buruku L.G.A",
+    "postalCode": "981103"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Tyowanye",
+    "localGovernmentArea": "Buruku L.G.A",
+    "postalCode": "981107"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Gboko Town",
+    "localGovernmentArea": "Gboko L.G.A",
+    "postalCode": "981101"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Yandev",
+    "localGovernmentArea": "Gboko L.G.A",
+    "postalCode": "981102"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbaawa",
+    "localGovernmentArea": "Guma L.G.A",
+    "postalCode": "970102"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbabai",
+    "localGovernmentArea": "Guma L.G.A",
+    "postalCode": "970103"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbagwen",
+    "localGovernmentArea": "Guma L.G.A",
+    "postalCode": "970105"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbasaan",
+    "localGovernmentArea": "Guma L.G.A",
+    "postalCode": "970104"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Uyiev",
+    "localGovernmentArea": "Guma L.G.A",
+    "postalCode": "9710106"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ingohov",
+    "localGovernmentArea": "Gwer East & West L.G.A",
+    "postalCode": "971101"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbakpa",
+    "localGovernmentArea": "Gwer East & West L.G.A",
+    "postalCode": "971104"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Njiriv",
+    "localGovernmentArea": "Gwer East & West L.G.A",
+    "postalCode": "971102"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Raav",
+    "localGovernmentArea": "Gwer East & West L.G.A",
+    "postalCode": "971103"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Yonov",
+    "localGovernmentArea": "Gwer East & West L.G.A",
+    "postalCode": "971105"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Katsina-Ala",
+    "localGovernmentArea": "Katsina-Ala L.G.A",
+    "postalCode": "980001"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbavaa",
+    "localGovernmentArea": "Konshisha L.G.A",
+    "postalCode": "971109"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Shan-Gevtie",
+    "localGovernmentArea": "Konshisha L.G.A",
+    "postalCode": "971110"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ikurav-Ya",
+    "localGovernmentArea": "Kwande L.G.A",
+    "postalCode": "982103"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Nanev",
+    "localGovernmentArea": "Kwande L.G.A",
+    "postalCode": "982101"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Shangev-Ya",
+    "localGovernmentArea": "Kwande L.G.A",
+    "postalCode": "982104"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Turan",
+    "localGovernmentArea": "Kwande L.G.A",
+    "postalCode": "982102"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Gaambe-Ya",
+    "localGovernmentArea": "Logo L.G.A",
+    "postalCode": "980102"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Gaambe-Tiev",
+    "localGovernmentArea": "Logo L.G.A",
+    "postalCode": "980107"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Kpav",
+    "localGovernmentArea": "Logo L.G.A",
+    "postalCode": "980103"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Kyuran-Tev",
+    "localGovernmentArea": "Logo L.G.A",
+    "postalCode": "980101"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbaterem",
+    "localGovernmentArea": "Logo L.G.A",
+    "postalCode": "980109"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ngenev",
+    "localGovernmentArea": "Logo L.G.A",
+    "postalCode": "980106"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Tongov",
+    "localGovernmentArea": "Logo L.G.A",
+    "postalCode": "980104"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Torov",
+    "localGovernmentArea": "Logo L.G.A",
+    "postalCode": "980110"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ucha",
+    "localGovernmentArea": "Logo L.G.A",
+    "postalCode": "980108"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ugondo",
+    "localGovernmentArea": "Logo L.G.A",
+    "postalCode": "980105"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Rural",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "970101"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - G.R.A",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "970211"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - Army Barracks",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": " 970212"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - Federal Housing Area",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "970213"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - High Level Ass. Village",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "970221"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - Wurukum",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "970222"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - Unijos Campus",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "970231"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - Hudco Quarters",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "970251"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - Wadata",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "970261"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - Kokoroo",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "972211"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - General Hospital",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "972221"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - Sabon Gari",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "972251"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - Eupi/Eupi-New Layout",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "972261"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Makurdi Town - Federal Low",
+    "localGovernmentArea": "Makurdi L.G.A",
+    "postalCode": "972281"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Igede 1",
+    "localGovernmentArea": "Obi & Oju L.G.A",
+    "postalCode": "362105"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Igede 2",
+    "localGovernmentArea": "Obi & Oju L.G.A",
+    "postalCode": "971106"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ito",
+    "localGovernmentArea": "Obi & Oju L.G.A",
+    "postalCode": "971108"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Uwokwu",
+    "localGovernmentArea": "Obi & Oju L.G.A",
+    "postalCode": "971107"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ogbadibo",
+    "localGovernmentArea": "Ogbadibo L.G.A",
+    "postalCode": null
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Adoka",
+    "localGovernmentArea": "Ohimin L.G.A",
+    "postalCode": "972106"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Akpa",
+    "localGovernmentArea": "Ohimin L.G.A",
+    "postalCode": "972101"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Oglewu",
+    "localGovernmentArea": "Ohimin L.G.A",
+    "postalCode": "972103"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Onyan-Geda",
+    "localGovernmentArea": "Ohimin L.G.A",
+    "postalCode": "972104"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ugboju",
+    "localGovernmentArea": "Ohimin L.G.A",
+    "postalCode": "972105"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Edumoga",
+    "localGovernmentArea": "Okpokwu L.G.A",
+    "postalCode": "973106"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ichama",
+    "localGovernmentArea": "Okpokwu L.G.A",
+    "postalCode": "973102"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Okpoga",
+    "localGovernmentArea": "Okpokwu L.G.A",
+    "postalCode": "973101"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Orokam",
+    "localGovernmentArea": "Okpokwu L.G.A",
+    "postalCode": "973104"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpa",
+    "localGovernmentArea": "Okpokwu L.G.A",
+    "postalCode": "973105"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Owukpa",
+    "localGovernmentArea": "Okpokwu L.G.A",
+    "postalCode": "973103"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Village",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972101"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 1",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972211"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 2",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972212"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 3",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972214"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 4",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972221"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 5",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972222"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 6",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972223"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 7",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972224"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 8",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972231"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 9",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972232"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 10",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972233"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 11",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972241"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 12",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972242"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 13",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972251"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 14",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972252"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Otukpo Town - Zone 15",
+    "localGovernmentArea": "Otukpo L.G.A",
+    "postalCode": "972261"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbayion",
+    "localGovernmentArea": "Takar L.G.A",
+    "postalCode": "981104"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Shorov",
+    "localGovernmentArea": "Takar L.G.A",
+    "postalCode": "981109"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Utur",
+    "localGovernmentArea": "Takar L.G.A",
+    "postalCode": "981108"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ipav",
+    "localGovernmentArea": "Takar L.G.A",
+    "postalCode": "981103"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Kusuv",
+    "localGovernmentArea": "Takar L.G.A",
+    "postalCode": "981107"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbagen",
+    "localGovernmentArea": "Takar L.G.A",
+    "postalCode": "981110"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbakor",
+    "localGovernmentArea": "Takar L.G.A",
+    "postalCode": "981113"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbalagh",
+    "localGovernmentArea": "Takar L.G.A",
+    "postalCode": "981106"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbatiav",
+    "localGovernmentArea": "Takar L.G.A",
+    "postalCode": "981111"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbatie - 1",
+    "localGovernmentArea": "Takar L.G.A",
+    "postalCode": "981112"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbatie - 2",
+    "localGovernmentArea": "Takar L.G.A",
+    "postalCode": "981105"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbatierev",
+    "localGovernmentArea": "Takar L.G.A",
+    "postalCode": "981112"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ukum",
+    "localGovernmentArea": "Ukum L.G.A",
+    "postalCode": "980001"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ikov",
+    "localGovernmentArea": "Ushongo L.G.A",
+    "postalCode": "981118"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbagba",
+    "localGovernmentArea": "Ushongo L.G.A",
+    "postalCode": "981115"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbaikyaa",
+    "localGovernmentArea": "Ushongo L.G.A",
+    "postalCode": "981117"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbaikyaa",
+    "localGovernmentArea": "Ushongo L.G.A",
+    "postalCode": "981117"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ushongo Town",
+    "localGovernmentArea": "Ushongo L.G.A",
+    "postalCode": "981114"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Utange",
+    "localGovernmentArea": "Ushongo L.G.A",
+    "postalCode": "981116"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbagbera",
+    "localGovernmentArea": "Vandeikya L.G.A",
+    "postalCode": "982107"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbaka-Ange",
+    "localGovernmentArea": "Vandeikya L.G.A",
+    "postalCode": "982105"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbara",
+    "localGovernmentArea": "Vandeikya L.G.A",
+    "postalCode": "982112"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbayongo",
+    "localGovernmentArea": "Vandeikya L.G.A",
+    "postalCode": "982109"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mingev",
+    "localGovernmentArea": "Vandeikya L.G.A",
+    "postalCode": "982106"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Tsambe",
+    "localGovernmentArea": "Vandeikya L.G.A",
+    "postalCode": "982111"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ute - 1",
+    "localGovernmentArea": "Vandeikya L.G.A",
+    "postalCode": "341119"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Ute - 2",
+    "localGovernmentArea": "Vandeikya L.G.A",
+    "postalCode": "982110"
+  },
+  {
+    "stateName": "Benue",
+    "districtName": "Mbaduku",
+    "localGovernmentArea": "Vandeikya L.G.A",
+    "postalCode": "982108"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Adavi",
+    "localGovernmentArea": "Adavi L.G.A",
+    "postalCode": "264103"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Ajaokuta",
+    "localGovernmentArea": "Ajaokuta L.G.A",
+    "postalCode": "263106"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Ebiya",
+    "localGovernmentArea": "Ajaokuta L.G.A",
+    "postalCode": "263104"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Egayin",
+    "localGovernmentArea": "Ajaokuta L.G.A",
+    "postalCode": "263105"
+  },  {
+    "stateName": "Kogi",
+    "districtName": "Ankpa Town",
+    "localGovernmentArea": "Ankpa L.G.A",
+    "postalCode": "270101"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Ejema",
+    "localGovernmentArea": "Ankpa L.G.A",
+    "postalCode": "270103"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Ojoku",
+    "localGovernmentArea": "Ankpa L.G.A",
+    "postalCode": "270102"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Ahutara",
+    "localGovernmentArea": "Bassa L.G.A",
+    "postalCode": "272109"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Akakana",
+    "localGovernmentArea": "Bassa L.G.A",
+    "postalCode": "272105"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Ozonogulo",
+    "localGovernmentArea": "Bassa L.G.A",
+    "postalCode": "272111"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Akishamishi",
+    "localGovernmentArea": "Bassa L.G.A",
+    "postalCode": "272106"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Birdu",
+    "localGovernmentArea": "Dekina L.G.A",
+    "postalCode": "272103"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Dekina town",
+    "localGovernmentArea": "Dekina L.G.A",
+    "postalCode": "272101"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Okura Egume",
+    "localGovernmentArea": "Dekina L.G.A",
+    "postalCode": "272102"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Ibaji",
+    "localGovernmentArea": "Ibaji L.G.A",
+    "postalCode": "271105"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Idah",
+    "localGovernmentArea": "Idah L.G.A",
+    "postalCode": "271101"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Adoru",
+    "localGovernmentArea": "Idah L.G.A",
+    "postalCode": "271104"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Oforachi",
+    "localGovernmentArea": "Igalamela-Odolu L.G.A",
+    "postalCode": "271103"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Ofuloko",
+    "localGovernmentArea": "Igalamela-Odolu L.G.A",
+    "postalCode": "271102"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Adoru",
+    "localGovernmentArea": "Igalamela-Odolu L.G.A",
+    "postalCode": "271104"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Ijumu",
+    "localGovernmentArea": "Ijumu L.G.A",
+    "postalCode": "261103"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Bunu",
+    "localGovernmentArea": "Kabba/Bunu L.G.A",
+    "postalCode": "261102"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Kabba town",
+    "localGovernmentArea": "Kabba/Bunu L.G.A",
+    "postalCode": "261251"
+  }, 
+
+  {
+    "stateName": "Kogi",
+    "districtName": "General Hospital",
+    "localGovernmentArea": "Kabba/Bunu L.G.A",
+    "postalCode": "261231"
+  }, 
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Lokoja By Pass",
+    "localGovernmentArea": "Kabba/Bunu L.G.A",
+    "postalCode": "261241"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Collage of Agric",
+    "localGovernmentArea": "Kabba/Bunu L.G.A",
+    "postalCode": "261211"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "G.R.A",
+    "localGovernmentArea": "Kabba/Bunu L.G.A",
+    "postalCode": "261221"
+  }, 
+
+  {
+    "stateName": "Kogi",
+    "districtName": "G.R.A",
+    "localGovernmentArea": "Kabba/Bunu L.G.A",
+    "postalCode": "261221"
+  }, 
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Local Government Scretariat",
+    "localGovernmentArea": "Kabba/Bunu L.G.A",
+    "postalCode": "261271"
+  }, 
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Kabba Town Hall",
+    "localGovernmentArea": "Kabba/Bunu L.G.A",
+    "postalCode": "261261"
+  }, 
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Other areas within Kabba LGA",
+    "localGovernmentArea": "Kabba/Bunu L.G.A",
+    "postalCode": "261101"
+  }, 
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Koto Karfe",
+    "localGovernmentArea": "Koton Karfe L.G.A",
+    "postalCode": "260105"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Kakanda",
+    "localGovernmentArea": "Lokoja L.G.A",
+    "postalCode": "260103"
+  }, 
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Kupa",
+    "localGovernmentArea": "Lokoja L.G.A",
+    "postalCode": "260104"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Lokoja Rural",
+    "localGovernmentArea": "Lokoja L.G.A",
+    "postalCode": "260101"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Mopa Muro",
+    "localGovernmentArea": "Mopa Muro L.G.A",
+    "postalCode": null
+  }, 
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Gwalawo",
+    "localGovernmentArea": "Ofu L.G.A",
+    "postalCode": "271107"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Itobe",
+    "localGovernmentArea": "Ofu L.G.A",
+    "postalCode": "271109"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Ogwa",
+    "localGovernmentArea": "Ofu L.G.A",
+    "postalCode": "271108"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Ugwalawo",
+    "localGovernmentArea": "Ofu L.G.A",
+    "postalCode": "271106"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Ogori/Magongo",
+    "localGovernmentArea": "Ogori/Magongo L.G.A",
+    "postalCode": "263103"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Eika",
+    "localGovernmentArea": "Okehi L.G.A",
+    "postalCode": "264101"
+  }, 
+  {
+    "stateName": "Kogi",
+    "districtName": "Ihima",
+    "localGovernmentArea": "Okehi L.G.A",
+    "postalCode": "264102"
+  }, 
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Okene Town",
+    "localGovernmentArea": "Okene L.G.A",
+    "postalCode": "263101"
+  }, 
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Okengwe-Obehira",
+    "localGovernmentArea": "Okene L.G.A",
+    "postalCode": "263101"
+  },
+  
+  {
+    "stateName": "Kogi",
+    "districtName": "Imani",
+    "localGovernmentArea": "Olamaboro L.G.A",
+    "postalCode": "270108"
+  },
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Ogodu 1",
+    "localGovernmentArea": "Olamaboro L.G.A",
+    "postalCode": "270104"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Ogodu 2",
+    "localGovernmentArea": "Olamaboro L.G.A",
+    "postalCode": "270109"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Okpo",
+    "localGovernmentArea": "Olamaboro L.G.A",
+    "postalCode": "270107"
+  },
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Abejukolo",
+    "localGovernmentArea": "Omala L.G.A",
+    "postalCode": "270105"
+  },
+  {
+    "stateName": "Kogi",
+    "districtName": "Ife",
+    "localGovernmentArea": "Omala L.G.A",
+    "postalCode": "270106"
+  },
+
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Yagba West",
+    "localGovernmentArea": "Yagba West L.G.A",
+    "postalCode": "262103"
+  },
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Yagba East 1",
+    "localGovernmentArea": "Yagba East L.G.A",
+    "postalCode": "262101"
+  },
+
+  {
+    "stateName": "Kogi",
+    "districtName": "Yagba East 2",
+    "localGovernmentArea": "Yagba East L.G.A",
+    "postalCode": "262102"
+  }
+
+
+  
+ 
+
+
+]
