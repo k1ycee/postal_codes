@@ -895,7 +895,8 @@
     "districtName": "Egayin",
     "localGovernmentArea": "Ajaokuta L.G.A",
     "postalCode": "263105"
-  },  {
+  },
+  {
     "stateName": "Kogi",
     "districtName": "Ankpa Town",
     "localGovernmentArea": "Ankpa L.G.A",
@@ -966,116 +967,116 @@
     "districtName": "Idah",
     "localGovernmentArea": "Idah L.G.A",
     "postalCode": "271101"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Adoru",
     "localGovernmentArea": "Idah L.G.A",
     "postalCode": "271104"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Oforachi",
     "localGovernmentArea": "Igalamela-Odolu L.G.A",
     "postalCode": "271103"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Ofuloko",
     "localGovernmentArea": "Igalamela-Odolu L.G.A",
     "postalCode": "271102"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Adoru",
     "localGovernmentArea": "Igalamela-Odolu L.G.A",
     "postalCode": "271104"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Ijumu",
     "localGovernmentArea": "Ijumu L.G.A",
     "postalCode": "261103"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Bunu",
     "localGovernmentArea": "Kabba/Bunu L.G.A",
     "postalCode": "261102"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Kabba town",
     "localGovernmentArea": "Kabba/Bunu L.G.A",
     "postalCode": "261251"
-  }, 
+  },
 
   {
     "stateName": "Kogi",
     "districtName": "General Hospital",
     "localGovernmentArea": "Kabba/Bunu L.G.A",
     "postalCode": "261231"
-  }, 
+  },
 
   {
     "stateName": "Kogi",
     "districtName": "Lokoja By Pass",
     "localGovernmentArea": "Kabba/Bunu L.G.A",
     "postalCode": "261241"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Collage of Agric",
     "localGovernmentArea": "Kabba/Bunu L.G.A",
     "postalCode": "261211"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "G.R.A",
     "localGovernmentArea": "Kabba/Bunu L.G.A",
     "postalCode": "261221"
-  }, 
+  },
 
   {
     "stateName": "Kogi",
     "districtName": "G.R.A",
     "localGovernmentArea": "Kabba/Bunu L.G.A",
     "postalCode": "261221"
-  }, 
+  },
 
   {
     "stateName": "Kogi",
     "districtName": "Local Government Scretariat",
     "localGovernmentArea": "Kabba/Bunu L.G.A",
     "postalCode": "261271"
-  }, 
+  },
 
   {
     "stateName": "Kogi",
     "districtName": "Kabba Town Hall",
     "localGovernmentArea": "Kabba/Bunu L.G.A",
     "postalCode": "261261"
-  }, 
+  },
 
   {
     "stateName": "Kogi",
     "districtName": "Other areas within Kabba LGA",
     "localGovernmentArea": "Kabba/Bunu L.G.A",
     "postalCode": "261101"
-  }, 
+  },
 
   {
     "stateName": "Kogi",
     "districtName": "Koto Karfe",
     "localGovernmentArea": "Koton Karfe L.G.A",
     "postalCode": "260105"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Kakanda",
     "localGovernmentArea": "Lokoja L.G.A",
     "postalCode": "260103"
-  }, 
+  },
 
   {
     "stateName": "Kogi",
@@ -1088,38 +1089,38 @@
     "districtName": "Lokoja Rural",
     "localGovernmentArea": "Lokoja L.G.A",
     "postalCode": "260101"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Mopa Muro",
     "localGovernmentArea": "Mopa Muro L.G.A",
     "postalCode": null
-  }, 
+  },
 
   {
     "stateName": "Kogi",
     "districtName": "Gwalawo",
     "localGovernmentArea": "Ofu L.G.A",
     "postalCode": "271107"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Itobe",
     "localGovernmentArea": "Ofu L.G.A",
     "postalCode": "271109"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Ogwa",
     "localGovernmentArea": "Ofu L.G.A",
     "postalCode": "271108"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Ugwalawo",
     "localGovernmentArea": "Ofu L.G.A",
     "postalCode": "271106"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Ogori/Magongo",
@@ -1131,20 +1132,20 @@
     "districtName": "Eika",
     "localGovernmentArea": "Okehi L.G.A",
     "postalCode": "264101"
-  }, 
+  },
   {
     "stateName": "Kogi",
     "districtName": "Ihima",
     "localGovernmentArea": "Okehi L.G.A",
     "postalCode": "264102"
-  }, 
+  },
 
   {
     "stateName": "Kogi",
     "districtName": "Okene Town",
     "localGovernmentArea": "Okene L.G.A",
     "postalCode": "263101"
-  }, 
+  },
 
   {
     "stateName": "Kogi",
@@ -1152,7 +1153,7 @@
     "localGovernmentArea": "Okene L.G.A",
     "postalCode": "263101"
   },
-  
+
   {
     "stateName": "Kogi",
     "districtName": "Imani",
@@ -1192,7 +1193,6 @@
     "postalCode": "270106"
   },
 
-
   {
     "stateName": "Kogi",
     "districtName": "Yagba West",
@@ -1213,10 +1213,4 @@
     "localGovernmentArea": "Yagba East L.G.A",
     "postalCode": "262102"
   }
-
-
-  
- 
-
-
 ]
